@@ -4740,7 +4740,7 @@
 
 - [@Mansgotsites](https://github.com/mansgotsites/)
 
-- [@e-jessie](https://github.com/e-jessie)
+- [@Jessie](https://github.com/e-jessie)
 
 - [@Mansvini](https://github.com/Mansvini)
 
